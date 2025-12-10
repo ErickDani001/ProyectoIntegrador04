@@ -25,7 +25,8 @@ public class ClasificadorCalificaciones {
 
         String resultado = clasificarCalificacion(calificacion);
         System.out.println("El resultado es: " + resultado);
-        
+
         scanner.close();
     }
 }
+//
