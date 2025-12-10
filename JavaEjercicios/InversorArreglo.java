@@ -17,7 +17,8 @@ public class InversorArreglo {
         for (int i = 4; i >= 0; i--) {
             System.out.println(numeros[i]);
         }
-        
+
         scanner.close();
     }
 }
+//
